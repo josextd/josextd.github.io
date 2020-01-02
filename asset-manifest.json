@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/josextd.github.io/robofriends/static/css/main.2a173daa.chunk.css",
-    "main.js": "/josextd.github.io/robofriends/static/js/main.9fa236f2.chunk.js",
-    "main.js.map": "/josextd.github.io/robofriends/static/js/main.9fa236f2.chunk.js.map",
+    "main.js": "/josextd.github.io/robofriends/static/js/main.54b198a3.chunk.js",
+    "main.js.map": "/josextd.github.io/robofriends/static/js/main.54b198a3.chunk.js.map",
     "runtime-main.js": "/josextd.github.io/robofriends/static/js/runtime-main.00c7926d.js",
     "runtime-main.js.map": "/josextd.github.io/robofriends/static/js/runtime-main.00c7926d.js.map",
     "static/css/2.eb45ad44.chunk.css": "/josextd.github.io/robofriends/static/css/2.eb45ad44.chunk.css",
     "static/js/2.43f9ce79.chunk.js": "/josextd.github.io/robofriends/static/js/2.43f9ce79.chunk.js",
     "static/js/2.43f9ce79.chunk.js.map": "/josextd.github.io/robofriends/static/js/2.43f9ce79.chunk.js.map",
     "index.html": "/josextd.github.io/robofriends/index.html",
-    "precache-manifest.a9d5eb866ee0034192c98b686ec1df00.js": "/josextd.github.io/robofriends/precache-manifest.a9d5eb866ee0034192c98b686ec1df00.js",
+    "precache-manifest.5c2d986b3268b2dcc585bf7f4b90d19a.js": "/josextd.github.io/robofriends/precache-manifest.5c2d986b3268b2dcc585bf7f4b90d19a.js",
     "service-worker.js": "/josextd.github.io/robofriends/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/josextd.github.io/robofriends/static/css/2.eb45ad44.chunk.css.map",
     "static/css/main.2a173daa.chunk.css.map": "/josextd.github.io/robofriends/static/css/main.2a173daa.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.43f9ce79.chunk.js",
     "static/css/main.2a173daa.chunk.css",
-    "static/js/main.9fa236f2.chunk.js"
+    "static/js/main.54b198a3.chunk.js"
   ]
 }
