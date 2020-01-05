@@ -10,3 +10,15 @@ h1 {
  font-weight: 200;
  color: #0ccac4;
 }
+
+/* @font-face {
+font-family: 'MANDALORE3D FONT';
+font-style: normal;
+font-weight: normal;
+src: local('MANDALORE FONT'), url('mandalore3d.ttf');}
+
+h1 {
+ font-family: 'MANDALORE3D FONT';  
+ font-weight: 200;
+ color: #0ccac4;
+} */
